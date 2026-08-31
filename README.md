@@ -10,6 +10,7 @@ Collection of my Codeforces problem solutions in C++.
 - 900
 - 1000
 - 1100
+- 1200
 
 ## Language
 - C++
