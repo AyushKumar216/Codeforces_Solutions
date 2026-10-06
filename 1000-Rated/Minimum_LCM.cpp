@@ -7,8 +7,8 @@ int main() {
     while (t--) {
         int n;
         cin >> n;
-        int d = 1;
-        for (int i = 2; i <= n; i++) {
+        int d = n;
+        for (int i = 2; i * i <= n; i++) {
             if (n % i == 0) {
                 d = i;
                 break;
